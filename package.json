@@ -41,9 +41,19 @@
                 "path": "./themes/tokyo-night-color-theme.json"
             },
             {
+                "label": "Tokyo Night High Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tokyo-night-high-contrast-color-theme.json"
+            },
+            {
                 "label": "Tokyo Night Storm",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tokyo-night-storm-color-theme.json"
+            },
+            {
+                "label": "Tokyo Night Light High Contrast",
+                "uiTheme": "vs",
+                "path": "./themes/tokyo-night-light-high-contrast-color-theme.json"
             },
             {
                 "label": "Tokyo Night Light",
